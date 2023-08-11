@@ -149,7 +149,7 @@ h1 {
     position: absolute;
     margin-top: 33em;
     margin-left: 17em;
-    padding: 3em;
+    padding: 1em;
     background-color: hsl(198, 40%, 35%);   
     cursor: pointer;
     border: 2px solid hsl(198, 40%, 35%);
